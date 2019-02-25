@@ -1,0 +1,11 @@
+com\sqa\pco\procesosExcel\LeerExcel.class
+com\sqa\pco\procesosApi\Autenticacion.class
+com\sqa\pco\procesosExcel\ModificarExcel.class
+seleniumGlueCode\ActualizacionTest.class
+com\sqa\pco\constantes\Constantes.class
+com\sqa\pco\dto\Respuesta.class
+com\sqa\pco\configuracion\Configuracion.class
+com\sqa\pco\utilidades\Utilidades.class
+com\sqa\pco\pom\Pom.class
+com\sqa\pco\procesosApi\ConsumoAPI.class
+runner\ActualizacionRunner.class
