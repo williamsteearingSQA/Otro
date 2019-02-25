@@ -4,5 +4,5 @@ jdk:
 sudo: false
   
  script: 
-    mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-    mvn clean test -B
+   - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+   - mvn clean test -B
